@@ -1,2 +1,31 @@
+.container{
+display:flex;
+	justify-content:space-between;
+	flex-wrap:row-reverse;
+}
 
-/* Your CSS Code here. */
+.flex-child1{
+background-color: red;
+margin:20px;
+padding:20px;
+width: 100px;
+
+	
+}
+.flex-child2{
+background-color: blue;
+margin:20px;
+padding:20px;
+width: 100px;
+
+	
+}
+.flex-child3{
+background-color: green;
+margin:20px;
+padding:20px;
+width: 100px;
+
+	
+}
+
